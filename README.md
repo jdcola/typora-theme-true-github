@@ -1,1 +1,3 @@
-# typora-theme-true-github
+# True GitHub Theme for Typora
+
+![](screenshot.png)
