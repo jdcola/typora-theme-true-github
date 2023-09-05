@@ -9,6 +9,8 @@
 
 [This is a link](http://nowhere.org)
 
+> This is a citation.
+
 ---
 
 1. Ordered list
