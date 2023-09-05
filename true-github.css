@@ -51,6 +51,13 @@ h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 
 b, strong { font-weight: 600 }
 
+blockquote {
+    margin: 1rem 0;
+    padding: .5rem 1rem;
+    color: #656d76;
+    border-left: .25rem solid #d1d7dd;
+}
+
 /****************** Links ******************/
 
 a, a.md-url, span.md-reverse-footnote-area a {
